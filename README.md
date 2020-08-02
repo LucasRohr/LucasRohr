@@ -1,4 +1,4 @@
-### :dagger::shield: Lucas Rohr Carreño
+### :robot: Lucas Rohr Carreño
 
 A person who wants to learn and share more knowledge each day
 
