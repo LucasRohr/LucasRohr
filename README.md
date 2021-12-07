@@ -2,6 +2,11 @@
 
 A person who wants to learn and share more knowledge each day
 
+<div>
+  <a href="https://github.com/santos-andressa">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=LucasRohr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
 ## 🌱 Currently learning:
 ![enter image description here](https://img.shields.io/badge/-Hyperledger%20Fabric-fc5a03?style=for-the-badge)
 ![enter image description here](https://img.shields.io/badge/-Flutter-1389FD?style=for-the-badge&logo=Flutter&logoColor=white)
