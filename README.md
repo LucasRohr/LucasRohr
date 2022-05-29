@@ -3,7 +3,7 @@
 A person who wants to learn and share more knowledge each day
 
 <div>
-  <a href="https://github.com/santos-andressa">
+  <a href="https://github.com/LucasRohr">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=LucasRohr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
