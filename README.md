@@ -27,5 +27,5 @@ Working on to be a better programmer and human bein each day :)
 
 - I just can't go a day without listening to music, it makes everything better!
 - Absolutely love dogs (have one myself)
-- Cooking to me is such a great time
+- Cooking is such a great time to me
 - I kinda like lists
