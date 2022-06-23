@@ -12,7 +12,7 @@ Working on to be a better programmer and human bein each day :)
 ![enter image description here](https://img.shields.io/badge/-Language-fc5a03?style=for-the-badge&logo=C&logoColor=white)
 ![enter image description here](https://img.shields.io/badge/-Flutter-1389FD?style=for-the-badge&logo=Flutter&logoColor=white)
 
-## 📫 Contact me:
+## 📫 More about me and contact:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-carre%C3%B1o-a18204174/)](https://www.linkedin.com/in/lucas-carre%C3%B1o-a18204174/)
 
 ## 🔭 Main Techs:
