@@ -1,7 +1,7 @@
 ### :robot: Lucas Rohr Carreño
 
 Hi! I'm a person who wants to learn and share more knowledge with people around me!<br>
-Working on to be a better programmer and human bein each day :)
+Working on to be a better programmer and human being each day :)
 
 <div>
   <a href="https://github.com/LucasRohr">
