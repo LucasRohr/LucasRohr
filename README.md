@@ -1,6 +1,6 @@
 ### :robot: Lucas Rohr Carreño
 
-Hi! I'm a person who wants to learn and share more knowledge with people around me!<br>
+Hi! I'm a person who wants to learn and share knowledge with people around me!<br>
 Working on to be a better developer and human being each day :)
 
 <div>
@@ -9,7 +9,7 @@ Working on to be a better developer and human being each day :)
 </div>
 
 ## 🌱 Currently learning:
-![enter image description here](https://img.shields.io/badge/-Language-fc5a03?style=for-the-badge&logo=C&logoColor=white)
+![enter image description here](https://img.shields.io/badge/-Chat%20GPT-19c37d?style=for-the-badge&logo=OpenAI&logoColor=white)
 ![enter image description here](https://img.shields.io/badge/-Flutter-1389FD?style=for-the-badge&logo=Flutter&logoColor=white)
 
 ## 📫 More about me and contact:
@@ -19,6 +19,7 @@ Working on to be a better developer and human being each day :)
 ![enter image description here](https://img.shields.io/badge/-Javascript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
 ![enter image description here](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=React&logoColor=black)
 ![enter image description here](https://img.shields.io/badge/-React%20Native-61DAFB?style=for-the-badge&logo=React&logoColor=black)
+![enter image description here](https://img.shields.io/badge/-Flutter-1389FD?style=for-the-badge&logo=Flutter&logoColor=white)
 ![enter image description here](https://img.shields.io/badge/-Java-f55742?style=for-the-badge&logo=Java&logoColor=white)
 ![enter image description here](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
 ![enter image description here](https://img.shields.io/badge/-MySQL-3f7dbf?style=for-the-badge&logo=MySQL&logoColor=white)
