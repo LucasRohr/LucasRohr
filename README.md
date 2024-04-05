@@ -5,24 +5,28 @@ Working on to be a better developer and human being each day :)
 
 <div>
   <a href="https://github.com/LucasRohr">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=LucasRohr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=LucasRohr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 ## 🌱 Currently learning:
-![enter image description here](https://img.shields.io/badge/-Chat%20GPT-19c37d?style=for-the-badge&logo=OpenAI&logoColor=white)
-![enter image description here](https://img.shields.io/badge/-Flutter-1389FD?style=for-the-badge&logo=Flutter&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/-Chat%20GPT-19c37d?style=for-the-badge&logo=OpenAI&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-1389FD?style=for-the-badge&logo=Flutter&logoColor=white)
 
 ## 📫 More about me and contact:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-carre%C3%B1o-a18204174/)](https://www.linkedin.com/in/lucas-carre%C3%B1o-a18204174/)
 
 ## 🔭 Main Techs:
-![enter image description here](https://img.shields.io/badge/-Javascript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
-![enter image description here](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=React&logoColor=black)
-![enter image description here](https://img.shields.io/badge/-React%20Native-61DAFB?style=for-the-badge&logo=React&logoColor=black)
-![enter image description here](https://img.shields.io/badge/-Flutter-1389FD?style=for-the-badge&logo=Flutter&logoColor=white)
-![enter image description here](https://img.shields.io/badge/-Java-f55742?style=for-the-badge&logo=Java&logoColor=white)
-![enter image description here](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
-![enter image description here](https://img.shields.io/badge/-MySQL-3f7dbf?style=for-the-badge&logo=MySQL&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-Javascript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=React&logoColor=black)
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=for-the-badge&logo=React&logoColor=black)
+![Flutter](https://img.shields.io/badge/-Flutter-1389FD?style=for-the-badge&logo=Flutter&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-f55742?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-3f7dbf?style=for-the-badge&logo=MySQL&logoColor=white)
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasRohr&theme=blue-green"/>
 
 ## :smile: Fun facts:
 
