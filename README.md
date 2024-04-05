@@ -5,7 +5,7 @@ Working on to be a better developer and human being each day :)
 
 <div>
   <a href="https://github.com/LucasRohr">
-  <img src="https://github-readme-stats.vercel.app/api?username=LucasRohr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=LucasRohr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
 
 ## 🌱 Currently learning:
@@ -26,7 +26,7 @@ Working on to be a better developer and human being each day :)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-3f7dbf?style=for-the-badge&logo=MySQL&logoColor=white)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasRohr&theme=blue-green"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasRohr&theme=tokyonight&layout=compact"/>
 
 ## :smile: Fun facts:
 
