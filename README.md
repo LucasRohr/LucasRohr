@@ -13,7 +13,7 @@ Working on to be a better developer and human being each day :)
 ![Flutter](https://img.shields.io/badge/-Flutter-1389FD?style=for-the-badge&logo=Flutter&logoColor=white)
 
 ## 📫 More about me and contact:
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-carre%C3%B1o-a18204174/)](https://www.linkedin.com/in/lucas-carre%C3%B1o-a18204174/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=logmein&logoColor=white&link=https://www.linkedin.com/in/lucas-carre%C3%B1o-a18204174/)](https://www.linkedin.com/in/lucas-carre%C3%B1o-a18204174/)
 
 ## 🔭 Main Techs:
 ![JavaScript](https://img.shields.io/badge/-Javascript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
