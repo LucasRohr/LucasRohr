@@ -1,6 +1,6 @@
 ### :robot: Lucas Rohr Carreño
 
-Hi! I'm a person who wants to learn and share knowledge with people around me!<br>
+Hi! I'm a person who wants to learn and share knowledge with people around me<br>
 Working on to be a better developer and human being each day :)
 
 <div>
@@ -30,7 +30,7 @@ Working on to be a better developer and human being each day :)
 
 ## :smile: Fun facts:
 
-- I just can't go a day without listening to music, it makes everything better!
+- I just can't go a day without listening to music
 - Absolutely love dogs (have one myself)
 - Cooking is such a great time to me
 - I kinda like lists
