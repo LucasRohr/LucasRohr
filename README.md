@@ -9,7 +9,7 @@ Working on to be a better developer and human being each day :)
 </div>
 
 ## 🌱 Currently learning:
-![Next JS](https://img.shields.io/badge/-Next%20JS-000000?style=for-the-badge&logo=React&logoColor=white)
+![Design Patterns](https://img.shields.io/badge/-Design%20Patterns-FFDA44?style=for-the-badge&logo=textpattern&logoColor=black)
 ![Flutter](https://img.shields.io/badge/-Flutter-1389FD?style=for-the-badge&logo=Flutter&logoColor=white)
 
 ## 📫 More about me and contact:
