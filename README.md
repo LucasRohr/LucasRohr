@@ -17,8 +17,9 @@ Working on to be a better developer and human being each day :)
 
 ## 🔭 Main Techs:
 ![JavaScript](https://img.shields.io/badge/-Javascript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
+![TypeScript](https://img.shields.io/badge/-TypeScript-235a97?style=for-the-badge&logo=TypeScript&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=React&logoColor=black)
 ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=for-the-badge&logo=React&logoColor=black)
 ![Flutter](https://img.shields.io/badge/-Flutter-1389FD?style=for-the-badge&logo=Flutter&logoColor=white)
